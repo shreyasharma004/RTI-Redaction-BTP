@@ -1,0 +1,20 @@
+{
+  "sample1.txt": [
+    { "start": 397, "end": 409, "label": "PERSON" },
+    { "start": 480, "end": 490, "label": "PHONE" },
+    { "start": 498, "end": 522, "label": "EMAIL" },
+    { "start": 532, "end": 456, "label": "AADHAAR" }
+  ],
+  "sample2.txt": [
+    { "start": 329, "end": 341, "label": "PERSON" },
+    { "start": 458, "end": 468, "label": "PAN" },
+    { "start": 403, "end": 417, "label": "PHONE" },
+    { "start": 426, "end": 450, "label": "EMAIL" }
+  ],
+  "sample3.txt": [
+    { "start": 402, "end": 415, "label": "PERSON" },
+    { "start": 475, "end": 485, "label": "PHONE" },
+    { "start": 493, "end": 517, "label": "EMAIL" },
+    { "start": 524, "end": 535, "label": "DATE" }
+  ]
+}

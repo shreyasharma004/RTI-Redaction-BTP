@@ -1,0 +1,15 @@
+# virtual env
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# big model folders
+trained_rti_model/
+rti_model_run/
+outputs/
+logs/
+
+# system cache
+*.pyc
+*.pyo
+*.DS_Store

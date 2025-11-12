@@ -1,0 +1,158 @@
+{
+  "sample1.txt": [
+    {
+      "start": 532,
+      "end": 546,
+      "label": "AADHAAR"
+    },
+    {
+      "start": 480,
+      "end": 490,
+      "label": "PHONE"
+    },
+    {
+      "start": 466,
+      "end": 472,
+      "label": "PIN"
+    },
+    {
+      "start": 498,
+      "end": 522,
+      "label": "EMAIL"
+    },
+    {
+      "start": 4,
+      "end": 34,
+      "label": "ORG"
+    },
+    {
+      "start": 36,
+      "end": 59,
+      "label": "ORG"
+    },
+    {
+      "start": 61,
+      "end": 74,
+      "label": "ORG"
+    },
+    {
+      "start": 421,
+      "end": 432,
+      "label": "PERSON"
+    },
+    {
+      "start": 443,
+      "end": 454,
+      "label": "PERSON"
+    },
+    {
+      "start": 456,
+      "end": 463,
+      "label": "PERSON"
+    }
+  ],
+  "sample2.txt": [
+    {
+      "start": 458,
+      "end": 468,
+      "label": "PAN"
+    },
+    {
+      "start": 407,
+      "end": 417,
+      "label": "PHONE"
+    },
+    {
+      "start": 381,
+      "end": 387,
+      "label": "PIN"
+    },
+    {
+      "start": 426,
+      "end": 450,
+      "label": "EMAIL"
+    },
+    {
+      "start": 4,
+      "end": 34,
+      "label": "ORG"
+    },
+    {
+      "start": 36,
+      "end": 67,
+      "label": "ORG"
+    },
+    {
+      "start": 336,
+      "end": 347,
+      "label": "PERSON"
+    },
+    {
+      "start": 353,
+      "end": 357,
+      "label": "PERSON"
+    },
+    {
+      "start": 453,
+      "end": 456,
+      "label": "ORG"
+    },
+    {
+      "start": 488,
+      "end": 499,
+      "label": "PERSON"
+    },
+    {
+      "start": 523,
+      "end": 540,
+      "label": "ORG"
+    }
+  ],
+  "sample3.txt": [
+    {
+      "start": 475,
+      "end": 485,
+      "label": "PHONE"
+    },
+    {
+      "start": 461,
+      "end": 467,
+      "label": "PIN"
+    },
+    {
+      "start": 493,
+      "end": 517,
+      "label": "EMAIL"
+    },
+    {
+      "start": 4,
+      "end": 34,
+      "label": "ORG"
+    },
+    {
+      "start": 36,
+      "end": 64,
+      "label": "ORG"
+    },
+    {
+      "start": 66,
+      "end": 76,
+      "label": "PERSON"
+    },
+    {
+      "start": 376,
+      "end": 379,
+      "label": "ORG"
+    },
+    {
+      "start": 402,
+      "end": 415,
+      "label": "PERSON"
+    },
+    {
+      "start": 443,
+      "end": 458,
+      "label": "PERSON"
+    }
+  ]
+}
