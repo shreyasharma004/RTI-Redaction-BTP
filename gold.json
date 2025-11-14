@@ -16,5 +16,335 @@
     { "start": 475, "end": 485, "label": "PHONE" },
     { "start": 493, "end": 517, "label": "EMAIL" },
     { "start": 524, "end": 535, "label": "DATE" }
+  ],
+  "sample4.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "EMAIL" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample5.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "PAN" }
+  ],
+
+  "sample6.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "EMAIL" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample7.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "EMAIL" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample8.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "PASSPORT" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample9.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample10.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample11.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample12.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" }
+  ],
+
+  "sample13.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample14.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample15.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample16.txt": [],
+  "sample17.txt": [],
+  "sample18.txt": [],
+  "sample19.txt": [],
+
+  "sample20.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample21.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample22.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "EMAIL" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample23.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample24.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample25.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample26.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample27.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "PAN" }
+  ],
+
+  "sample28.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample29.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample30.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PASSPORT" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample31.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample32.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "EMAIL" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" }
+  ],
+
+  "sample33.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample34.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "FILE" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" }
+  ],
+
+  "sample35.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample36.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample37.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample38.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample39.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample40.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample41.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample42.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "PASSPORT" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample43.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample44.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "AADHAAR" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample45.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "FILE" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" }
+  ],
+
+  "sample46.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample47.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" },
+    { "start": null, "end": null, "label": "EMAIL" }
+  ],
+
+  "sample48.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample49.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
+  ],
+
+  "sample50.txt": [
+    { "start": null, "end": null, "label": "PERSON" },
+    { "start": null, "end": null, "label": "PAN" },
+    { "start": null, "end": null, "label": "ADDRESS" },
+    { "start": null, "end": null, "label": "PIN" },
+    { "start": null, "end": null, "label": "PHONE" }
   ]
 }
