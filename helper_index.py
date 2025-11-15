@@ -3,7 +3,7 @@
 import re
 import unicodedata
 
-file = "rtis/sample10.txt"   # change this for other files
+file = "rtis/sample33.txt" # change this for other files
 
 def normalize(s: str) -> str:
     # NFC normalize, remove zero-width chars, replace fancy quotes/dashes

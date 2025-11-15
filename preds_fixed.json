@@ -1,0 +1,1548 @@
+{
+  "sample1.txt": [
+    {
+      "start": 532,
+      "end": 546,
+      "label": "AADHAAR",
+      "text": "4589 1234 7789"
+    },
+    {
+      "start": 439,
+      "end": 472,
+      "label": "ADDRESS",
+      "text": "45, Gomti Nagar, Lucknow - 226010"
+    },
+    {
+      "start": 498,
+      "end": 522,
+      "label": "EMAIL",
+      "text": "ritika.singh25@gmail.com"
+    },
+    {
+      "start": 397,
+      "end": 409,
+      "label": "PERSON",
+      "text": "Ritika Singh"
+    },
+    {
+      "start": 421,
+      "end": 432,
+      "label": "PERSON",
+      "text": "Kumar Singh"
+    },
+    {
+      "start": 480,
+      "end": 490,
+      "label": "PHONE",
+      "text": "9936521874"
+    },
+    {
+      "start": 466,
+      "end": 472,
+      "label": "PIN",
+      "text": "226010"
+    }
+  ],
+  "sample10.txt": [
+    {
+      "start": 33,
+      "end": 66,
+      "label": "ADDRESS",
+      "text": "44, Green Park Extn, Delhi 110016"
+    },
+    {
+      "start": 12,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Vidhi Talwar"
+    },
+    {
+      "start": 125,
+      "end": 152,
+      "label": "PERSON",
+      "text": "karamchariyon ki attendance"
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "label": "PIN",
+      "text": "110016"
+    }
+  ],
+  "sample11.txt": [
+    {
+      "start": 35,
+      "end": 47,
+      "label": "AADHAAR",
+      "text": "901290129012"
+    },
+    {
+      "start": 109,
+      "end": 153,
+      "label": "ADDRESS",
+      "text": "Flat B-302, Silver Crest Apt., Mumbai 400076"
+    },
+    {
+      "start": 76,
+      "end": 103,
+      "label": "EMAIL",
+      "text": "irfan.khan+rt1@mailhost.com"
+    },
+    {
+      "start": 59,
+      "end": 67,
+      "label": "PASSPORT",
+      "text": "Z1234567"
+    },
+    {
+      "start": 12,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Irfan Khan"
+    },
+    {
+      "start": 147,
+      "end": 153,
+      "label": "PIN",
+      "text": "400076"
+    }
+  ],
+  "sample12.txt": [
+    {
+      "start": 26,
+      "end": 52,
+      "label": "ADDRESS",
+      "text": "55, गौतम नगर, भोपाल 462021"
+    },
+    {
+      "start": 154,
+      "end": 166,
+      "label": "DATE",
+      "text": "12 June 2023"
+    },
+    {
+      "start": 7,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Priya & Amit"
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "PHONE",
+      "text": "7981122223"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9475668902"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "462021"
+    }
+  ],
+  "sample13.txt": [
+    {
+      "start": 26,
+      "end": 52,
+      "label": "ADDRESS",
+      "text": "55, गौतम नगर, भोपाल 462021"
+    },
+    {
+      "start": 154,
+      "end": 166,
+      "label": "DATE",
+      "text": "12 June 2023"
+    },
+    {
+      "start": 7,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Priya & Amit"
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "PHONE",
+      "text": "7981122223"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9475668902"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "462021"
+    }
+  ],
+  "sample14.txt": [
+    {
+      "start": 34,
+      "end": 67,
+      "label": "ADDRESS",
+      "text": "9-Shanti Vihar ; Ghaziabad-201010"
+    },
+    {
+      "start": 141,
+      "end": 149,
+      "label": "DATE",
+      "text": "1-4-2022"
+    },
+    {
+      "start": 153,
+      "end": 162,
+      "label": "DATE",
+      "text": "31-3-2023"
+    },
+    {
+      "start": 12,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Harsh!a G."
+    },
+    {
+      "start": 61,
+      "end": 67,
+      "label": "PIN",
+      "text": "201010"
+    }
+  ],
+  "sample15.txt": [
+    {
+      "start": 35,
+      "end": 69,
+      "label": "ADDRESS",
+      "text": "33/2 Shakti Nagar, Ludhiana 141007"
+    },
+    {
+      "start": 78,
+      "end": 96,
+      "label": "EMAIL",
+      "text": "tannuChh_89@xyz.in"
+    },
+    {
+      "start": 54,
+      "end": 76,
+      "label": "PERSON",
+      "text": "Ludhiana 141007 \nEmail"
+    },
+    {
+      "start": 63,
+      "end": 69,
+      "label": "PIN",
+      "text": "141007"
+    }
+  ],
+  "sample16.txt": [
+    {
+      "start": 51,
+      "end": 65,
+      "label": "AADHAAR",
+      "text": "7766 8899 2233"
+    },
+    {
+      "start": 72,
+      "end": 103,
+      "label": "ADDRESS",
+      "text": "18, मालवीय नगर, देहरादून 248001"
+    },
+    {
+      "start": 149,
+      "end": 152,
+      "label": "FILE",
+      "text": "for"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "label": "PAN",
+      "text": "JSHPK6612R"
+    },
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Kavita Joshi"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "label": "PERSON",
+      "text": "JSHPK6612R"
+    },
+    {
+      "start": 97,
+      "end": 103,
+      "label": "PIN",
+      "text": "248001"
+    }
+  ],
+  "sample17.txt": [
+    {
+      "start": 89,
+      "end": 107,
+      "label": "EMAIL",
+      "text": "deepak.tchr@edu.in"
+    },
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Deepak Kumar"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "PHONE",
+      "text": "9004412299"
+    }
+  ],
+  "sample18.txt": [
+    {
+      "start": 18,
+      "end": 57,
+      "label": "ADDRESS",
+      "text": "House No. 4, खजूरी Kalan, Bhopal 462040"
+    },
+    {
+      "start": 7,
+      "end": 11,
+      "label": "PERSON",
+      "text": "Ritu"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PERSON",
+      "text": "kiske naam"
+    },
+    {
+      "start": 165,
+      "end": 167,
+      "label": "PERSON",
+      "text": "है"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "PHONE",
+      "text": "8877445599"
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "462040"
+    }
+  ],
+  "sample19.txt": [
+    {
+      "start": 29,
+      "end": 68,
+      "label": "ADDRESS",
+      "text": "Flat 7B, Anna Street, Coimbatore 641002"
+    },
+    {
+      "start": 97,
+      "end": 111,
+      "label": "EMAIL",
+      "text": "iyer77@post.in"
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Ramesh Iyer"
+    },
+    {
+      "start": 77,
+      "end": 87,
+      "label": "PHONE",
+      "text": "9488801122"
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "PIN",
+      "text": "641002"
+    }
+  ],
+  "sample2.txt": [
+    {
+      "start": 348,
+      "end": 386,
+      "label": "ADDRESS",
+      "text": "58, साउथ एक्सटेंशन, नई दिल्ली - 110049"
+    },
+    {
+      "start": 501,
+      "end": 514,
+      "label": "ADDRESS",
+      "text": "की जिम्मेदारी"
+    },
+    {
+      "start": 423,
+      "end": 447,
+      "label": "EMAIL",
+      "text": "anjali.verma@example.com"
+    },
+    {
+      "start": 454,
+      "end": 464,
+      "label": "PAN",
+      "text": "AKTPV9012H"
+    },
+    {
+      "start": 321,
+      "end": 341,
+      "label": "PERSON",
+      "text": "का नाम: Anjali Verma"
+    },
+    {
+      "start": 336,
+      "end": 346,
+      "label": "PERSON",
+      "text": "Verma \nपता"
+    },
+    {
+      "start": 484,
+      "end": 495,
+      "label": "PERSON",
+      "text": "कि पार्क की"
+    },
+    {
+      "start": 405,
+      "end": 415,
+      "label": "PHONE",
+      "text": "9810012345"
+    },
+    {
+      "start": 380,
+      "end": 386,
+      "label": "PIN",
+      "text": "110049"
+    }
+  ],
+  "sample20.txt": [
+    {
+      "start": 54,
+      "end": 91,
+      "label": "ADDRESS",
+      "text": "7A, Shree Nivas Colony, Nashik 422008"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "label": "PAN",
+      "text": "HQQPM2219F"
+    },
+    {
+      "start": 11,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Mahesh Patankar"
+    },
+    {
+      "start": 100,
+      "end": 110,
+      "label": "PHONE",
+      "text": "9022511190"
+    },
+    {
+      "start": 85,
+      "end": 91,
+      "label": "PIN",
+      "text": "422008"
+    }
+  ],
+  "sample21.txt": [
+    {
+      "start": 67,
+      "end": 81,
+      "label": "AADHAAR",
+      "text": "9988 7766 5511"
+    },
+    {
+      "start": 23,
+      "end": 52,
+      "label": "ADDRESS",
+      "text": "वार्ड 9, चंदपुर, बलिया 277001"
+    },
+    {
+      "start": 7,
+      "end": 16,
+      "label": "PERSON",
+      "text": "अनूप सिंह"
+    },
+    {
+      "start": 91,
+      "end": 101,
+      "label": "PHONE",
+      "text": "8877002319"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "277001"
+    }
+  ],
+  "sample22.txt": [
+    {
+      "start": 30,
+      "end": 68,
+      "label": "ADDRESS",
+      "text": "104, New Vijay Nagar, Ghaziabad 201009"
+    },
+    {
+      "start": 82,
+      "end": 96,
+      "label": "EMAIL",
+      "text": "rghz@inbox.org"
+    },
+    {
+      "start": 16,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Asha R."
+    },
+    {
+      "start": 105,
+      "end": 115,
+      "label": "PHONE",
+      "text": "9910877233"
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "PIN",
+      "text": "201009"
+    }
+  ],
+  "sample23.txt": [
+    {
+      "start": 38,
+      "end": 74,
+      "label": "ADDRESS",
+      "text": "33, Muthu Street, Thanjavur - 613001"
+    },
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Prabhu Sekar"
+    },
+    {
+      "start": 83,
+      "end": 93,
+      "label": "PHONE",
+      "text": "9444412288"
+    },
+    {
+      "start": 68,
+      "end": 74,
+      "label": "PIN",
+      "text": "613001"
+    }
+  ],
+  "sample24.txt": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "PERSON",
+      "text": "Avedak"
+    },
+    {
+      "start": 52,
+      "end": 61,
+      "label": "PERSON",
+      "text": "KhairtalA"
+    },
+    {
+      "start": 68,
+      "end": 74,
+      "label": "PIN",
+      "text": "303501"
+    }
+  ],
+  "sample25.txt": [
+    {
+      "start": 28,
+      "end": 76,
+      "label": "ADDRESS",
+      "text": "Flat 601, Lakeview Heights, Powai, Mumbai 400076"
+    },
+    {
+      "start": 85,
+      "end": 99,
+      "label": "EMAIL",
+      "text": "rhea.t@live.in"
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Rhea Thomas"
+    },
+    {
+      "start": 70,
+      "end": 76,
+      "label": "PIN",
+      "text": "400076"
+    }
+  ],
+  "sample26.txt": [
+    {
+      "start": 31,
+      "end": 77,
+      "label": "ADDRESS",
+      "text": "44-12-3/2, Mangalagiri Road, Vijayawada 520008"
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "label": "PERSON",
+      "text": "Sravani P"
+    },
+    {
+      "start": 86,
+      "end": 96,
+      "label": "PHONE",
+      "text": "9885509921"
+    },
+    {
+      "start": 71,
+      "end": 77,
+      "label": "PIN",
+      "text": "520008"
+    }
+  ],
+  "sample27.txt": [
+    {
+      "start": 46,
+      "end": 80,
+      "label": "ADDRESS",
+      "text": "18, Sector 2, Rohini, Delhi 110085"
+    },
+    {
+      "start": 25,
+      "end": 35,
+      "label": "PAN",
+      "text": "BHTKB2991T"
+    },
+    {
+      "start": 6,
+      "end": 18,
+      "label": "PERSON",
+      "text": "Karan Bhatia"
+    },
+    {
+      "start": 110,
+      "end": 116,
+      "label": "PERSON",
+      "text": "Pichle"
+    },
+    {
+      "start": 169,
+      "end": 175,
+      "label": "PERSON",
+      "text": "karein"
+    },
+    {
+      "start": 74,
+      "end": 80,
+      "label": "PIN",
+      "text": "110085"
+    }
+  ],
+  "sample28.txt": [
+    {
+      "start": 37,
+      "end": 70,
+      "label": "ADDRESS",
+      "text": "22, Sainik Enclave, Jaipur 302012"
+    },
+    {
+      "start": 12,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Ramesh & Varun"
+    },
+    {
+      "start": 80,
+      "end": 90,
+      "label": "PHONE",
+      "text": "9540012218"
+    },
+    {
+      "start": 92,
+      "end": 102,
+      "label": "PHONE",
+      "text": "8826654421"
+    },
+    {
+      "start": 64,
+      "end": 70,
+      "label": "PIN",
+      "text": "302012"
+    }
+  ],
+  "sample29.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Arnab Dutta"
+    },
+    {
+      "start": 87,
+      "end": 93,
+      "label": "PERSON",
+      "text": "অনুরোধ"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9874351200"
+    },
+    {
+      "start": 59,
+      "end": 65,
+      "label": "PIN",
+      "text": "700019"
+    }
+  ],
+  "sample3.txt": [
+    {
+      "start": 242,
+      "end": 257,
+      "label": "ADDRESS",
+      "text": "Tiruchirappalli"
+    },
+    {
+      "start": 420,
+      "end": 467,
+      "label": "ADDRESS",
+      "text": "15/7, Bharathi Street, Tiruchirappalli - 620002"
+    },
+    {
+      "start": 273,
+      "end": 286,
+      "label": "DATE",
+      "text": "31 March 2024"
+    },
+    {
+      "start": 524,
+      "end": 535,
+      "label": "DATE",
+      "text": "12 May 2024"
+    },
+    {
+      "start": 493,
+      "end": 517,
+      "label": "EMAIL",
+      "text": "arun.krishnan@citizen.in"
+    },
+    {
+      "start": 66,
+      "end": 76,
+      "label": "PERSON",
+      "text": "Tamil Nadu"
+    },
+    {
+      "start": 393,
+      "end": 400,
+      "label": "PERSON",
+      "text": "Details"
+    },
+    {
+      "start": 402,
+      "end": 415,
+      "label": "PERSON",
+      "text": "Arun Krishnan"
+    },
+    {
+      "start": 475,
+      "end": 485,
+      "label": "PHONE",
+      "text": "9840276211"
+    },
+    {
+      "start": 461,
+      "end": 467,
+      "label": "PIN",
+      "text": "620002"
+    }
+  ],
+  "sample30.txt": [
+    {
+      "start": 57,
+      "end": 89,
+      "label": "ADDRESS",
+      "text": "15, Lotus Row, Chandigarh 160017"
+    },
+    {
+      "start": 100,
+      "end": 123,
+      "label": "EMAIL",
+      "text": "chawla_work@techmail.co"
+    },
+    {
+      "start": 38,
+      "end": 46,
+      "label": "PASSPORT",
+      "text": "P3339921"
+    },
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Rohit Chawla"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "160017"
+    }
+  ],
+  "sample31.txt": [
+    {
+      "start": 58,
+      "end": 64,
+      "label": "PIN",
+      "text": "110031"
+    }
+  ],
+  "sample32.txt": [
+    {
+      "start": 33,
+      "end": 45,
+      "label": "AADHAAR",
+      "text": "998877665544"
+    },
+    {
+      "start": 83,
+      "end": 120,
+      "label": "ADDRESS",
+      "text": "13, Sunrise Apartments, Indore 452001"
+    },
+    {
+      "start": 54,
+      "end": 75,
+      "label": "EMAIL",
+      "text": "neha_kpr++@mailbox.in"
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Neha Kapoor"
+    },
+    {
+      "start": 114,
+      "end": 120,
+      "label": "PIN",
+      "text": "452001"
+    }
+  ],
+  "sample33.txt": [
+    {
+      "start": 35,
+      "end": 67,
+      "label": "ADDRESS",
+      "text": "8, Basappa Layout, Mysuru 570008"
+    },
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Manjunath Rao"
+    },
+    {
+      "start": 76,
+      "end": 86,
+      "label": "PHONE",
+      "text": "9035667122"
+    },
+    {
+      "start": 61,
+      "end": 67,
+      "label": "PIN",
+      "text": "570008"
+    }
+  ],
+  "sample34.txt": [
+    {
+      "start": 56,
+      "end": 93,
+      "label": "ADDRESS",
+      "text": "11, Presidency Street, Kolkata 700072"
+    },
+    {
+      "start": 158,
+      "end": 168,
+      "label": "DATE",
+      "text": "18/12/2021"
+    },
+    {
+      "start": 35,
+      "end": 45,
+      "label": "FILE",
+      "text": "2023/441-B"
+    },
+    {
+      "start": 158,
+      "end": 172,
+      "label": "FILE",
+      "text": "18/12/2021-CE."
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "label": "PERSON",
+      "text": "Anita Sen"
+    },
+    {
+      "start": 87,
+      "end": 93,
+      "label": "PIN",
+      "text": "700072"
+    }
+  ],
+  "sample35.txt": [
+    {
+      "start": 23,
+      "end": 57,
+      "label": "ADDRESS",
+      "text": "77, Patel Nagar West, Delhi 110008"
+    },
+    {
+      "start": 11,
+      "end": 16,
+      "label": "PERSON",
+      "text": "Monty"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PERSON",
+      "text": "kahan gaya"
+    },
+    {
+      "start": 66,
+      "end": 76,
+      "label": "PHONE",
+      "text": "8449122991"
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "110008"
+    }
+  ],
+  "sample36.txt": [
+    {
+      "start": 111,
+      "end": 124,
+      "label": "ADDRESS",
+      "text": "Sunrise Villa"
+    },
+    {
+      "start": 24,
+      "end": 34,
+      "label": "PAN",
+      "text": "DKLPD9022Q"
+    },
+    {
+      "start": 14,
+      "end": 17,
+      "label": "PERSON",
+      "text": "Dev"
+    },
+    {
+      "start": 149,
+      "end": 159,
+      "label": "PHONE",
+      "text": "9313340072"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "600105"
+    },
+    {
+      "start": 134,
+      "end": 140,
+      "label": "PIN",
+      "text": "122002"
+    }
+  ],
+  "sample37.txt": [
+    {
+      "start": 11,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Pratik K"
+    },
+    {
+      "start": 64,
+      "end": 74,
+      "label": "PHONE",
+      "text": "9096932211"
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "PIN",
+      "text": "411030"
+    }
+  ],
+  "sample38.txt": [
+    {
+      "start": 35,
+      "end": 47,
+      "label": "AADHAAR",
+      "text": "112233445566"
+    },
+    {
+      "start": 92,
+      "end": 116,
+      "label": "EMAIL",
+      "text": "shalini.desai@clarion.in"
+    },
+    {
+      "start": 54,
+      "end": 64,
+      "label": "PAN",
+      "text": "DESPS8831G"
+    },
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Shalini Desai"
+    },
+    {
+      "start": 73,
+      "end": 83,
+      "label": "PHONE",
+      "text": "9821301100"
+    }
+  ],
+  "sample39.txt": [
+    {
+      "start": 39,
+      "end": 72,
+      "label": "ADDRESS",
+      "text": "वार्ड 16, अंसारी नगर, पटना 800020"
+    },
+    {
+      "start": 7,
+      "end": 32,
+      "label": "PERSON",
+      "text": "Abdul Rahim / अब्दुल रहीम"
+    },
+    {
+      "start": 79,
+      "end": 89,
+      "label": "PHONE",
+      "text": "9570339011"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "label": "PIN",
+      "text": "800020"
+    }
+  ],
+  "sample4.txt": [
+    {
+      "start": 93,
+      "end": 107,
+      "label": "AADHAAR",
+      "text": "5678 9012 3344"
+    },
+    {
+      "start": 49,
+      "end": 82,
+      "label": "ADDRESS",
+      "text": "22, Kaveri Vihar, Kanpur - 208012"
+    },
+    {
+      "start": 116,
+      "end": 137,
+      "label": "EMAIL",
+      "text": "meera.s2001@gmail.com"
+    },
+    {
+      "start": 11,
+      "end": 42,
+      "label": "PERSON",
+      "text": "Meera Sharma, D/o Rakesh Sharma"
+    },
+    {
+      "start": 67,
+      "end": 91,
+      "label": "PERSON",
+      "text": "Kanpur - 208012 \nAadhaar"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PHONE",
+      "text": "9823654710"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "208012"
+    }
+  ],
+  "sample40.txt": [
+    {
+      "start": 28,
+      "end": 57,
+      "label": "ADDRESS",
+      "text": "55-Lake Town ; Kolkata-700089"
+    },
+    {
+      "start": 12,
+      "end": 20,
+      "label": "PERSON",
+      "text": "GeetA M."
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "700089"
+    }
+  ],
+  "sample41.txt": [
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Gurpreet Kaur"
+    },
+    {
+      "start": 75,
+      "end": 85,
+      "label": "PHONE",
+      "text": "9815599033"
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "label": "PIN",
+      "text": "144003"
+    }
+  ],
+  "sample42.txt": [
+    {
+      "start": 69,
+      "end": 104,
+      "label": "ADDRESS",
+      "text": "19, Jubilee Hills, Hyderabad 500033"
+    },
+    {
+      "start": 28,
+      "end": 38,
+      "label": "PAN",
+      "text": "RAOAX1112T"
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "label": "PASSPORT",
+      "text": "R0099123"
+    },
+    {
+      "start": 11,
+      "end": 21,
+      "label": "PERSON",
+      "text": "Ashwin Rao"
+    },
+    {
+      "start": 113,
+      "end": 123,
+      "label": "PHONE",
+      "text": "9440044112"
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "label": "PIN",
+      "text": "500033"
+    }
+  ],
+  "sample43.txt": [
+    {
+      "start": 30,
+      "end": 59,
+      "label": "ADDRESS",
+      "text": "22, Inderpuri, NewDelhi110012"
+    },
+    {
+      "start": 12,
+      "end": 20,
+      "label": "PERSON",
+      "text": "TANYA G."
+    }
+  ],
+  "sample44.txt": [
+    {
+      "start": 32,
+      "end": 46,
+      "label": "AADHAAR",
+      "text": "6655 9988 1122"
+    },
+    {
+      "start": 57,
+      "end": 88,
+      "label": "ADDRESS",
+      "text": "77, Gandhi Road, Madurai 625001"
+    },
+    {
+      "start": 11,
+      "end": 21,
+      "label": "PERSON",
+      "text": "Karthika M"
+    },
+    {
+      "start": 97,
+      "end": 107,
+      "label": "PHONE",
+      "text": "9445599911"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "label": "PIN",
+      "text": "625001"
+    }
+  ],
+  "sample45.txt": [
+    {
+      "start": 59,
+      "end": 89,
+      "label": "ADDRESS",
+      "text": "44, Green Meadows, Pune 411014"
+    },
+    {
+      "start": 11,
+      "end": 18,
+      "label": "PERSON",
+      "text": "Vivek S"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "411014"
+    }
+  ],
+  "sample46.txt": [
+    {
+      "start": 21,
+      "end": 56,
+      "label": "ADDRESS",
+      "text": "11/9, Civil Lines, Allahabad 211001"
+    },
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON",
+      "text": "Kavya"
+    },
+    {
+      "start": 67,
+      "end": 77,
+      "label": "PHONE",
+      "text": "9090902223"
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "PIN",
+      "text": "211001"
+    }
+  ],
+  "sample47.txt": [
+    {
+      "start": 33,
+      "end": 72,
+      "label": "ADDRESS",
+      "text": "14/72, Palm Residency, Faridabad 121006"
+    },
+    {
+      "start": 83,
+      "end": 106,
+      "label": "EMAIL",
+      "text": "malhotra.gov@inmail.org"
+    },
+    {
+      "start": 11,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Dinesh Malhotra"
+    },
+    {
+      "start": 115,
+      "end": 125,
+      "label": "PHONE",
+      "text": "9818087744"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "label": "PIN",
+      "text": "121006"
+    }
+  ],
+  "sample48.txt": [
+    {
+      "start": 26,
+      "end": 50,
+      "label": "ADDRESS",
+      "text": "4, सोनापुर, सिलचर 788001"
+    },
+    {
+      "start": 11,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Rina Das"
+    },
+    {
+      "start": 72,
+      "end": 78,
+      "label": "PERSON",
+      "text": "অনুরোধ"
+    },
+    {
+      "start": 59,
+      "end": 69,
+      "label": "PHONE",
+      "text": "7002974412"
+    },
+    {
+      "start": 44,
+      "end": 50,
+      "label": "PIN",
+      "text": "788001"
+    }
+  ],
+  "sample49.txt": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON",
+      "text": "Applica"
+    },
+    {
+      "start": 13,
+      "end": 20,
+      "label": "PERSON",
+      "text": "JOhn P."
+    },
+    {
+      "start": 55,
+      "end": 61,
+      "label": "PIN",
+      "text": "682020"
+    }
+  ],
+  "sample5.txt": [
+    {
+      "start": 25,
+      "end": 55,
+      "label": "ADDRESS",
+      "text": "14, शास्त्री नगर, जयपुर 302016"
+    },
+    {
+      "start": 80,
+      "end": 90,
+      "label": "PAN",
+      "text": "ABCDE4567F"
+    },
+    {
+      "start": 7,
+      "end": 18,
+      "label": "PERSON",
+      "text": "मोहित वर्मा"
+    },
+    {
+      "start": 63,
+      "end": 73,
+      "label": "PHONE",
+      "text": "9898123456"
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "PIN",
+      "text": "302016"
+    }
+  ],
+  "sample50.txt": [
+    {
+      "start": 51,
+      "end": 88,
+      "label": "ADDRESS",
+      "text": "14-22/2, Kukatpally, Hyderabad 500072"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "label": "PAN",
+      "text": "CRDRD2211J"
+    },
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Charan Reddy"
+    },
+    {
+      "start": 97,
+      "end": 107,
+      "label": "PHONE",
+      "text": "9393990021"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "label": "PIN",
+      "text": "500072"
+    }
+  ],
+  "sample6.txt": [
+    {
+      "start": 50,
+      "end": 82,
+      "label": "ADDRESS",
+      "text": "45- Indra col0ny\" Udaipur-313001"
+    },
+    {
+      "start": 16,
+      "end": 21,
+      "label": "PERSON",
+      "text": "KuMar"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "313001"
+    }
+  ],
+  "sample7.txt": [
+    {
+      "start": 39,
+      "end": 82,
+      "label": "ADDRESS",
+      "text": "119/3, Old Bus Stand के पास, Dharwad 580002"
+    },
+    {
+      "start": 91,
+      "end": 119,
+      "label": "EMAIL",
+      "text": "prakash_official@fastmail.in"
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON",
+      "text": "Prakash \nपता"
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "label": "PHONE",
+      "text": "7022347781"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "580002"
+    }
+  ],
+  "sample8.txt": [
+    {
+      "start": 95,
+      "end": 107,
+      "label": "AADHAAR",
+      "text": "334455667788"
+    },
+    {
+      "start": 27,
+      "end": 79,
+      "label": "ADDRESS",
+      "text": "ग्राम घनौली, तहसील पालमपुर, जिला कांगड़ा, पिन 176061"
+    },
+    {
+      "start": 8,
+      "end": 19,
+      "label": "PERSON",
+      "text": "सुशीला देवी"
+    },
+    {
+      "start": 118,
+      "end": 128,
+      "label": "PHONE",
+      "text": "7800570092"
+    },
+    {
+      "start": 73,
+      "end": 79,
+      "label": "PIN",
+      "text": "176061"
+    }
+  ],
+  "sample9.txt": [
+    {
+      "start": 50,
+      "end": 78,
+      "label": "ADDRESS",
+      "text": "12/88, MG Road, Kochi 682011"
+    },
+    {
+      "start": 89,
+      "end": 110,
+      "label": "EMAIL",
+      "text": "nair_work@company.org"
+    },
+    {
+      "start": 29,
+      "end": 39,
+      "label": "PAN",
+      "text": "AQIPN9912K"
+    },
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Rajesh Nair"
+    },
+    {
+      "start": 72,
+      "end": 78,
+      "label": "PIN",
+      "text": "682011"
+    }
+  ]
+}
