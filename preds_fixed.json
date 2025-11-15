@@ -255,12 +255,6 @@
       "text": "18, मालवीय नगर, देहरादून 248001"
     },
     {
-      "start": 149,
-      "end": 152,
-      "label": "FILE",
-      "text": "for"
-    },
-    {
       "start": 30,
       "end": 40,
       "label": "PAN",
@@ -895,16 +889,10 @@
       "text": "18/12/2021"
     },
     {
-      "start": 35,
+      "start": 31,
       "end": 45,
       "label": "FILE",
-      "text": "2023/441-B"
-    },
-    {
-      "start": 158,
-      "end": 172,
-      "label": "FILE",
-      "text": "18/12/2021-CE."
+      "text": "RTI/2023/441-B"
     },
     {
       "start": 11,

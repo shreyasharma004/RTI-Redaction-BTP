@@ -1,4 +1,4 @@
-# fix_preds.py  (patched: aggressive cleaning + merge address sub-spans + person filter)
+# fix_preds.py  (final patched: aggressive-clean + merge addrs + PERSON filter + strict DATE + strict PIN/FILE)
 import json
 import re
 import unicodedata
@@ -12,6 +12,14 @@ RE_AADHAAR = re.compile(r'\b\d{4}[\s-]?\d{4}[\s-]?\d{4}\b')
 RE_PIN = re.compile(r'\b[1-9]\d{5}\b')
 RE_PASSPORT = re.compile(r'\b[A-PR-WYa-pr-wy]\d{7}\b')
 RE_FILE = re.compile(r'\bRTI\/[A-Za-z0-9\-_\/]+\b', re.I)
+
+# Strict-ish date patterns (dd/mm/yyyy, 12 June 2023, June 12, 2023, etc.)
+RE_DATE = re.compile(
+    r'(\b\d{1,2}[\/\-\.\s]\d{1,2}[\/\-\.\s]\d{2,4}\b)'
+    r'|(\b(?:\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\s+\d{2,4})\b)'
+    r'|(\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\s+\d{1,2},?\s+\d{2,4}\b)',
+    re.I
+)
 
 # -------------------- NORMALIZATION --------------------
 def normalize_text(t):
@@ -152,6 +160,26 @@ for fname, spans in preds.items():
             else:
                 continue
 
+        # ---------- DATE validation: only keep sensible date-like spans ----------
+        if lab == "DATE":
+            if not RE_DATE.search(real):
+                m = RE_DATE.search(ntext, max(0, nst-30), min(len(ntext), ned+30))
+                if m:
+                    nst, ned = m.start(), m.end()
+                    real = ntext[nst:ned]
+                else:
+                    continue
+
+        # ---------- FILE validation: require RTI/like pattern ----------
+        if lab == "FILE":
+            if not RE_FILE.search(real):
+                m = RE_FILE.search(ntext, max(0, nst-20), min(len(ntext), ned+20))
+                if m:
+                    nst, ned = m.start(), m.end()
+                    real = ntext[nst:ned]
+                else:
+                    continue
+
         if lab == "PAN" and not RE_PAN.search(real):
             m = RE_PAN.search(ntext, max(0, nst-10), min(len(ntext), ned+10))
             if m:
@@ -164,11 +192,35 @@ for fname, spans in preds.items():
                 nst, ned = m.start(), m.end()
                 real = ntext[nst:ned]
 
-        if lab == "PIN" and not RE_PIN.search(real):
-            m = RE_PIN.search(ntext, max(0, nst-10), min(len(ntext), ned+10))
+        # ---------- PIN: require exact 6-digit + contextual cue or explicit nearby match ----------
+        if lab == "PIN":
+            # try to find a 6-digit inside the matched text first
+            m = RE_PIN.search(real)
             if m:
-                nst, ned = m.start(), m.end()
+                # align to the exact 6-digit match (convert to global indices)
+                nst = nst + m.start()
+                ned = nst + (m.end() - m.start())
                 real = ntext[nst:ned]
+            else:
+                # try to find a 6-digit near the region
+                m = RE_PIN.search(ntext, max(0, nst-12), min(len(ntext), ned+12))
+                if m:
+                    nst, ned = m.start(), m.end()
+                    real = ntext[nst:ned]
+                else:
+                    # no 6-digit found -> drop
+                    continue
+
+            # require a contextual cue near the PIN (left or right)
+            left = ntext[max(0, nst-20):nst].lower()
+            right = ntext[ned:min(len(ntext), ned+20)].lower()
+            if not re.search(r'\b(pin|pincode|pincode:|pin:|postcode|zip|pin-)\b', left + " " + right):
+                # allow PIN if it appears at very end of a line (likely part of address)
+                # check a small window around the pin for a newline right after or before
+                window = ntext[max(0, nst-6):min(len(ntext), ned+6)]
+                if not re.search(r'\n', window):
+                    # no context -> drop noisy PIN
+                    continue
 
         if len(real) < 2:
             continue
