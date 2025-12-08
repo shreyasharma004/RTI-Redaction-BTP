@@ -1,0 +1,5 @@
+आवेदक: [PERSON P&A.]  
+पता:[ADDRESS  XX, गौतम नगर, भोपाल[PIN R]EDACTED]1  
+Phone[PHONE REDACTED]23 [PHONE REDACTED]02  
+
+Query: Please provide copies of all complaint resolutions filed [DATE REDACTED]023.

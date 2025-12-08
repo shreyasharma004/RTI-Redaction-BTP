@@ -1,6 +1,10 @@
 import re, json, pathlib, unicodedata
 import spacy
-from langdetect import detect
+try:
+    from langdetect import detect
+except:
+    def detect(_): return "en"
+
 
 # Load NER model
 nlp = spacy.load("en_core_web_sm")

@@ -1,15 +1,22 @@
-# virtual env
-venv/
+# Ignore Python caches
 __pycache__/
-.ipynb_checkpoints/
-
-# big model folders
-trained_rti_model/
-rti_model_run/
-outputs/
-logs/
-
-# system cache
 *.pyc
-*.pyo
-*.DS_Store
+
+# Ignore venv
+.venv/
+venv/
+
+# Ignore HuggingFace cache
+~/.cache/huggingface/
+
+# Ignore model weights (OPTIONAL — see step 4)
+*.bin
+*.safetensors
+
+# Ignore output folders
+outputs/
+preds.json
+preds_fixed.json
+
+# Ignore large zip files
+*.zip

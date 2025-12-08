@@ -19,6 +19,18 @@
       "text": "ritika.singh25@gmail.com"
     },
     {
+      "start": 159,
+      "end": 164,
+      "label": "PERSON",
+      "text": "Madam"
+    },
+    {
+      "start": 386,
+      "end": 395,
+      "label": "PERSON",
+      "text": "Applicant"
+    },
+    {
       "start": 397,
       "end": 409,
       "label": "PERSON",
@@ -35,12 +47,6 @@
       "end": 490,
       "label": "PHONE",
       "text": "9936521874"
-    },
-    {
-      "start": 466,
-      "end": 472,
-      "label": "PIN",
-      "text": "226010"
     }
   ],
   "sample10.txt": [
@@ -61,12 +67,6 @@
       "end": 152,
       "label": "PERSON",
       "text": "karamchariyon ki attendance"
-    },
-    {
-      "start": 60,
-      "end": 66,
-      "label": "PIN",
-      "text": "110016"
     }
   ],
   "sample11.txt": [
@@ -95,16 +95,10 @@
       "text": "Z1234567"
     },
     {
-      "start": 12,
+      "start": 0,
       "end": 22,
       "label": "PERSON",
-      "text": "Irfan Khan"
-    },
-    {
-      "start": 147,
-      "end": 153,
-      "label": "PIN",
-      "text": "400076"
+      "text": "Applicant - Irfan Khan"
     }
   ],
   "sample12.txt": [
@@ -137,12 +131,6 @@
       "end": 84,
       "label": "PHONE",
       "text": "9475668902"
-    },
-    {
-      "start": 46,
-      "end": 52,
-      "label": "PIN",
-      "text": "462021"
     }
   ],
   "sample13.txt": [
@@ -175,12 +163,6 @@
       "end": 84,
       "label": "PHONE",
       "text": "9475668902"
-    },
-    {
-      "start": 46,
-      "end": 52,
-      "label": "PIN",
-      "text": "462021"
     }
   ],
   "sample14.txt": [
@@ -207,12 +189,6 @@
       "end": 22,
       "label": "PERSON",
       "text": "Harsh!a G."
-    },
-    {
-      "start": 61,
-      "end": 67,
-      "label": "PIN",
-      "text": "201010"
     }
   ],
   "sample15.txt": [
@@ -227,18 +203,6 @@
       "end": 96,
       "label": "EMAIL",
       "text": "tannuChh_89@xyz.in"
-    },
-    {
-      "start": 54,
-      "end": 76,
-      "label": "PERSON",
-      "text": "Ludhiana 141007 \nEmail"
-    },
-    {
-      "start": 63,
-      "end": 69,
-      "label": "PIN",
-      "text": "141007"
     }
   ],
   "sample16.txt": [
@@ -265,18 +229,6 @@
       "end": 23,
       "label": "PERSON",
       "text": "Kavita Joshi"
-    },
-    {
-      "start": 30,
-      "end": 40,
-      "label": "PERSON",
-      "text": "JSHPK6612R"
-    },
-    {
-      "start": 97,
-      "end": 103,
-      "label": "PIN",
-      "text": "248001"
     }
   ],
   "sample17.txt": [
@@ -313,12 +265,6 @@
       "text": "Ritu"
     },
     {
-      "start": 146,
-      "end": 156,
-      "label": "PERSON",
-      "text": "kiske naam"
-    },
-    {
       "start": 165,
       "end": 167,
       "label": "PERSON",
@@ -329,12 +275,6 @@
       "end": 80,
       "label": "PHONE",
       "text": "8877445599"
-    },
-    {
-      "start": 51,
-      "end": 57,
-      "label": "PIN",
-      "text": "462040"
     }
   ],
   "sample19.txt": [
@@ -361,12 +301,6 @@
       "end": 87,
       "label": "PHONE",
       "text": "9488801122"
-    },
-    {
-      "start": 62,
-      "end": 68,
-      "label": "PIN",
-      "text": "641002"
     }
   ],
   "sample2.txt": [
@@ -375,12 +309,6 @@
       "end": 386,
       "label": "ADDRESS",
       "text": "58, साउथ एक्सटेंशन, नई दिल्ली - 110049"
-    },
-    {
-      "start": 501,
-      "end": 514,
-      "label": "ADDRESS",
-      "text": "की जिम्मेदारी"
     },
     {
       "start": 423,
@@ -395,34 +323,34 @@
       "text": "AKTPV9012H"
     },
     {
+      "start": 156,
+      "end": 161,
+      "label": "PERSON",
+      "text": "Madam"
+    },
+    {
       "start": 321,
       "end": 341,
       "label": "PERSON",
       "text": "का नाम: Anjali Verma"
     },
     {
-      "start": 336,
-      "end": 346,
-      "label": "PERSON",
-      "text": "Verma \nपता"
-    },
-    {
-      "start": 484,
+      "start": 487,
       "end": 495,
       "label": "PERSON",
-      "text": "कि पार्क की"
+      "text": "पार्क की"
+    },
+    {
+      "start": 501,
+      "end": 514,
+      "label": "PERSON",
+      "text": "की जिम्मेदारी"
     },
     {
       "start": 405,
       "end": 415,
       "label": "PHONE",
       "text": "9810012345"
-    },
-    {
-      "start": 380,
-      "end": 386,
-      "label": "PIN",
-      "text": "110049"
     }
   ],
   "sample20.txt": [
@@ -449,12 +377,6 @@
       "end": 110,
       "label": "PHONE",
       "text": "9022511190"
-    },
-    {
-      "start": 85,
-      "end": 91,
-      "label": "PIN",
-      "text": "422008"
     }
   ],
   "sample21.txt": [
@@ -481,12 +403,6 @@
       "end": 101,
       "label": "PHONE",
       "text": "8877002319"
-    },
-    {
-      "start": 46,
-      "end": 52,
-      "label": "PIN",
-      "text": "277001"
     }
   ],
   "sample22.txt": [
@@ -513,12 +429,6 @@
       "end": 115,
       "label": "PHONE",
       "text": "9910877233"
-    },
-    {
-      "start": 62,
-      "end": 68,
-      "label": "PIN",
-      "text": "201009"
     }
   ],
   "sample23.txt": [
@@ -539,26 +449,20 @@
       "end": 93,
       "label": "PHONE",
       "text": "9444412288"
-    },
-    {
-      "start": 68,
-      "end": 74,
-      "label": "PIN",
-      "text": "613001"
     }
   ],
   "sample24.txt": [
     {
-      "start": 0,
-      "end": 6,
+      "start": 10,
+      "end": 18,
       "label": "PERSON",
-      "text": "Avedak"
+      "text": "JOG!ND3R"
     },
     {
-      "start": 52,
-      "end": 61,
+      "start": 19,
+      "end": 22,
       "label": "PERSON",
-      "text": "KhairtalA"
+      "text": "LaL"
     },
     {
       "start": 68,
@@ -585,12 +489,6 @@
       "end": 22,
       "label": "PERSON",
       "text": "Rhea Thomas"
-    },
-    {
-      "start": 70,
-      "end": 76,
-      "label": "PIN",
-      "text": "400076"
     }
   ],
   "sample26.txt": [
@@ -611,12 +509,6 @@
       "end": 96,
       "label": "PHONE",
       "text": "9885509921"
-    },
-    {
-      "start": 71,
-      "end": 77,
-      "label": "PIN",
-      "text": "520008"
     }
   ],
   "sample27.txt": [
@@ -637,24 +529,6 @@
       "end": 18,
       "label": "PERSON",
       "text": "Karan Bhatia"
-    },
-    {
-      "start": 110,
-      "end": 116,
-      "label": "PERSON",
-      "text": "Pichle"
-    },
-    {
-      "start": 169,
-      "end": 175,
-      "label": "PERSON",
-      "text": "karein"
-    },
-    {
-      "start": 74,
-      "end": 80,
-      "label": "PIN",
-      "text": "110085"
     }
   ],
   "sample28.txt": [
@@ -681,12 +555,6 @@
       "end": 102,
       "label": "PHONE",
       "text": "8826654421"
-    },
-    {
-      "start": 64,
-      "end": 70,
-      "label": "PIN",
-      "text": "302012"
     }
   ],
   "sample29.txt": [
@@ -695,6 +563,12 @@
       "end": 22,
       "label": "PERSON",
       "text": "Arnab Dutta"
+    },
+    {
+      "start": 24,
+      "end": 29,
+      "label": "PERSON",
+      "text": "ঠিকান"
     },
     {
       "start": 87,
@@ -753,10 +627,10 @@
       "text": "Tamil Nadu"
     },
     {
-      "start": 393,
+      "start": 383,
       "end": 400,
       "label": "PERSON",
-      "text": "Details"
+      "text": "Applicant Details"
     },
     {
       "start": 402,
@@ -769,12 +643,6 @@
       "end": 485,
       "label": "PHONE",
       "text": "9840276211"
-    },
-    {
-      "start": 461,
-      "end": 467,
-      "label": "PIN",
-      "text": "620002"
     }
   ],
   "sample30.txt": [
@@ -801,15 +669,21 @@
       "end": 23,
       "label": "PERSON",
       "text": "Rohit Chawla"
-    },
-    {
-      "start": 83,
-      "end": 89,
-      "label": "PIN",
-      "text": "160017"
     }
   ],
   "sample31.txt": [
+    {
+      "start": 38,
+      "end": 43,
+      "label": "PERSON",
+      "text": "Geeta"
+    },
+    {
+      "start": 126,
+      "end": 137,
+      "label": "PERSON",
+      "text": "bhej dijiye"
+    },
     {
       "start": 58,
       "end": 64,
@@ -841,12 +715,6 @@
       "end": 22,
       "label": "PERSON",
       "text": "Neha Kapoor"
-    },
-    {
-      "start": 114,
-      "end": 120,
-      "label": "PIN",
-      "text": "452001"
     }
   ],
   "sample33.txt": [
@@ -867,12 +735,6 @@
       "end": 86,
       "label": "PHONE",
       "text": "9035667122"
-    },
-    {
-      "start": 61,
-      "end": 67,
-      "label": "PIN",
-      "text": "570008"
     }
   ],
   "sample34.txt": [
@@ -883,12 +745,6 @@
       "text": "11, Presidency Street, Kolkata 700072"
     },
     {
-      "start": 158,
-      "end": 168,
-      "label": "DATE",
-      "text": "18/12/2021"
-    },
-    {
       "start": 31,
       "end": 45,
       "label": "FILE",
@@ -896,15 +752,9 @@
     },
     {
       "start": 11,
-      "end": 20,
+      "end": 26,
       "label": "PERSON",
-      "text": "Anita Sen"
-    },
-    {
-      "start": 87,
-      "end": 93,
-      "label": "PIN",
-      "text": "700072"
+      "text": "Anita Sen \nFile"
     }
   ],
   "sample35.txt": [
@@ -931,21 +781,9 @@
       "end": 76,
       "label": "PHONE",
       "text": "8449122991"
-    },
-    {
-      "start": 51,
-      "end": 57,
-      "label": "PIN",
-      "text": "110008"
     }
   ],
   "sample36.txt": [
-    {
-      "start": 111,
-      "end": 124,
-      "label": "ADDRESS",
-      "text": "Sunrise Villa"
-    },
     {
       "start": 24,
       "end": 34,
@@ -957,6 +795,18 @@
       "end": 17,
       "label": "PERSON",
       "text": "Dev"
+    },
+    {
+      "start": 111,
+      "end": 124,
+      "label": "PERSON",
+      "text": "Sunrise Villa"
+    },
+    {
+      "start": 126,
+      "end": 133,
+      "label": "PERSON",
+      "text": "Gurgaon"
     },
     {
       "start": 149,
@@ -1023,6 +873,12 @@
       "text": "Shalini Desai"
     },
     {
+      "start": 26,
+      "end": 33,
+      "label": "PERSON",
+      "text": "Aadhaar"
+    },
+    {
       "start": 73,
       "end": 83,
       "label": "PHONE",
@@ -1043,16 +899,16 @@
       "text": "Abdul Rahim / अब्दुल रहीम"
     },
     {
+      "start": 124,
+      "end": 133,
+      "label": "PERSON",
+      "text": "की प्रगति"
+    },
+    {
       "start": 79,
       "end": 89,
       "label": "PHONE",
       "text": "9570339011"
-    },
-    {
-      "start": 66,
-      "end": 72,
-      "label": "PIN",
-      "text": "800020"
     }
   ],
   "sample4.txt": [
@@ -1081,22 +937,10 @@
       "text": "Meera Sharma, D/o Rakesh Sharma"
     },
     {
-      "start": 67,
-      "end": 91,
-      "label": "PERSON",
-      "text": "Kanpur - 208012 \nAadhaar"
-    },
-    {
       "start": 146,
       "end": 156,
       "label": "PHONE",
       "text": "9823654710"
-    },
-    {
-      "start": 76,
-      "end": 82,
-      "label": "PIN",
-      "text": "208012"
     }
   ],
   "sample40.txt": [
@@ -1111,12 +955,6 @@
       "end": 20,
       "label": "PERSON",
       "text": "GeetA M."
-    },
-    {
-      "start": 51,
-      "end": 57,
-      "label": "PIN",
-      "text": "700089"
     }
   ],
   "sample41.txt": [
@@ -1169,12 +1007,6 @@
       "end": 123,
       "label": "PHONE",
       "text": "9440044112"
-    },
-    {
-      "start": 98,
-      "end": 104,
-      "label": "PIN",
-      "text": "500033"
     }
   ],
   "sample43.txt": [
@@ -1189,6 +1021,12 @@
       "end": 20,
       "label": "PERSON",
       "text": "TANYA G."
+    },
+    {
+      "start": 117,
+      "end": 121,
+      "label": "PERSON",
+      "text": "bhej"
     }
   ],
   "sample44.txt": [
@@ -1215,12 +1053,6 @@
       "end": 107,
       "label": "PHONE",
       "text": "9445599911"
-    },
-    {
-      "start": 82,
-      "end": 88,
-      "label": "PIN",
-      "text": "625001"
     }
   ],
   "sample45.txt": [
@@ -1235,12 +1067,6 @@
       "end": 18,
       "label": "PERSON",
       "text": "Vivek S"
-    },
-    {
-      "start": 83,
-      "end": 89,
-      "label": "PIN",
-      "text": "411014"
     }
   ],
   "sample46.txt": [
@@ -1261,12 +1087,6 @@
       "end": 77,
       "label": "PHONE",
       "text": "9090902223"
-    },
-    {
-      "start": 50,
-      "end": 56,
-      "label": "PIN",
-      "text": "211001"
     }
   ],
   "sample47.txt": [
@@ -1293,12 +1113,6 @@
       "end": 125,
       "label": "PHONE",
       "text": "9818087744"
-    },
-    {
-      "start": 66,
-      "end": 72,
-      "label": "PIN",
-      "text": "121006"
     }
   ],
   "sample48.txt": [
@@ -1325,20 +1139,14 @@
       "end": 69,
       "label": "PHONE",
       "text": "7002974412"
-    },
-    {
-      "start": 44,
-      "end": 50,
-      "label": "PIN",
-      "text": "788001"
     }
   ],
   "sample49.txt": [
     {
       "start": 0,
-      "end": 7,
+      "end": 10,
       "label": "PERSON",
-      "text": "Applica"
+      "text": "Applica-nt"
     },
     {
       "start": 13,
@@ -1373,16 +1181,16 @@
       "text": "मोहित वर्मा"
     },
     {
+      "start": 126,
+      "end": 140,
+      "label": "PERSON",
+      "text": "कॉन्ट्रैक्ट की"
+    },
+    {
       "start": 63,
       "end": 73,
       "label": "PHONE",
       "text": "9898123456"
-    },
-    {
-      "start": 49,
-      "end": 55,
-      "label": "PIN",
-      "text": "302016"
     }
   ],
   "sample50.txt": [
@@ -1409,12 +1217,6 @@
       "end": 107,
       "label": "PHONE",
       "text": "9393990021"
-    },
-    {
-      "start": 82,
-      "end": 88,
-      "label": "PIN",
-      "text": "500072"
     }
   ],
   "sample6.txt": [
@@ -1429,12 +1231,6 @@
       "end": 21,
       "label": "PERSON",
       "text": "KuMar"
-    },
-    {
-      "start": 76,
-      "end": 82,
-      "label": "PIN",
-      "text": "313001"
     }
   ],
   "sample7.txt": [
@@ -1452,21 +1248,21 @@
     },
     {
       "start": 19,
-      "end": 31,
+      "end": 26,
       "label": "PERSON",
-      "text": "Prakash \nपता"
+      "text": "Prakash"
+    },
+    {
+      "start": 170,
+      "end": 178,
+      "label": "PERSON",
+      "text": "में जारी"
     },
     {
       "start": 128,
       "end": 138,
       "label": "PHONE",
       "text": "7022347781"
-    },
-    {
-      "start": 76,
-      "end": 82,
-      "label": "PIN",
-      "text": "580002"
     }
   ],
   "sample8.txt": [
@@ -1493,12 +1289,6 @@
       "end": 128,
       "label": "PHONE",
       "text": "7800570092"
-    },
-    {
-      "start": 73,
-      "end": 79,
-      "label": "PIN",
-      "text": "176061"
     }
   ],
   "sample9.txt": [
@@ -1525,12 +1315,6 @@
       "end": 22,
       "label": "PERSON",
       "text": "Rajesh Nair"
-    },
-    {
-      "start": 72,
-      "end": 78,
-      "label": "PIN",
-      "text": "682011"
     }
   ]
 }

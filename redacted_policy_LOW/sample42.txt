@@ -1,0 +1,7 @@
+Applicant: Ashwin Rao  
+PAN:[PAN …1112]T  
+Passport[PASSPORT …0991]23  
+Address: 19, Jubilee Hills, Hyderabad 500033  
+Pho[PHONE …4004]4112  
+
+Query: Provide all correspondence related to complaint ID 8821/2022.

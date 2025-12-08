@@ -1,45 +1,147 @@
-# RTI PII Redaction Project
+✨ RTI PII Redaction Pipeline (Hindi + English)
 
-## Overview
+A hybrid NLP system for automated, policy-aware redaction of personally identifiable information (PII) in RTI documents.
+Supports Hindi + English, three redaction modes, and full evaluation using a gold-annotated dataset.
 
-This project aims to automatically redact personally identifiable information (PII) from Indian RTI responses using a hybrid rule-based and NER-based approach.
+⭐ 1. Features
 
-## Features
+Text Normalization
+Fixes unicode, punctuation, spacing, and aligns spans.
 
-- Detects Aadhaar, PAN, phone numbers, emails, postal PINs.
-- NER-based redaction of PERSON, ORG, LOCATION, DATE entities.
-- Three redaction levels: light, medium, strong.
-- Works on multilingual noisy RTI text.
+Regex Layer (High Precision)
+Detects Aadhaar, PAN, Phone, Email, PIN, Passport, Dates.
 
-## Folder Structure
+spaCy NER Layer (English)
+Identifies PERSON, ADDRESS, DATE for English segments.
 
-- `rtis/` : Input text files.
-- `outputs/` : Generated redacted versions.
-- `redact_demo.py` : Main script.
-- `requirements.txt` : Dependencies.
-- `slides/` : Presentation materials.
+XLM-RoBERTa Fine-Tuned Model (Hindi + English)
+Custom-trained transformer for bilingual PII detection.
 
-## Usage
+Span Merging & Policy Logic
+Resolves overlaps + prioritizes high-risk PII categories.
 
-1. `pip install -r requirements.txt`
-2. `python redact_demo.py`
-3. Outputs appear in `outputs/`.
+Redaction Levels
 
-### Baseline Evaluation (Hybrid Regex + NER)
+Light → Regex only
 
-| Entity      | Precision | Recall    | F1        |
-| ----------- | --------- | --------- | --------- |
-| PHONE       | ...       | ...       | ...       |
-| EMAIL       | ...       | ...       | ...       |
-| PAN         | ...       | ...       | ...       |
-| AADHAAR     | ...       | ...       | ...       |
-| PERSON      | ...       | ...       | ...       |
-| **Overall** | **0.213** | **0.833** | **0.339** |
+Medium → Regex + spaCy
 
-Dataset size: 3 RTI samples (English + bilingual)
+Strong → Regex + spaCy + XLM-R
 
-## Next Steps
+Evaluation
+Label-wise F1 using seqeval, via eval_script.py.
 
-- Build multilingual model using XLM-RoBERTa.
-- Evaluate precision/recall on annotated dataset.
-- Draft research paper for IEEE submission.
+⭐ 2. Project Structure
+RTI-Redaction-BTP/
+│
+├── rtis/ # Input RTI text files
+├── outputs/ # Generated redacted files
+├── gold.json # Manually annotated spans
+├── preds.json # Model predictions for eval
+│
+├── normalize_rtis.py # Text cleanup script
+├── redact_demo_updated.py # Main redaction pipeline
+├── inference_model.py # Local XLM-R inference script
+├── fix_preds.py # Cleans token-level outputs
+├── eval_script.py # Evaluates preds vs gold
+│
+├── xlm_rti_ner_final_more/ # Fine-tuned transformer (folder)
+│
+└── README.md
+
+⭐ 3. Installation
+Create environment
+python -m venv .venv
+.venv\Scripts\activate # Windows
+
+Install dependencies
+pip install torch transformers sentencepiece spacy langdetect evaluate
+python -m spacy download en_core_web_sm
+
+⭐ 4. Running the Pipeline
+
+1. Normalize RTI files
+   python normalize_rtis.py
+
+2. Generate redactions (light/medium/strong)
+   python redact_demo_updated.py
+
+Outputs saved to outputs/.
+
+3. Run XLM-R inference
+   python inference_model.py
+
+4. Evaluate
+   python eval_script.py gold.json preds.json
+
+⭐ 5. Redaction Modes Explained
+🔹 Light Mode (Regex)
+
+Aadhaar
+
+PAN
+
+Phone
+
+Email
+
+PIN
+
+Passport
+
+Strong identifiers only
+
+High precision
+
+No language dependency
+
+🔹 Medium Mode (Regex + spaCy)
+
+Adds PERSON, ADDRESS, DATE (English only)
+
+Good contextual coverage
+
+🔹 Strong Mode (Regex + spaCy + XLM-R)
+
+Full bilingual detection
+
+Best for mixed Hindi-English PII
+
+Captures names, addresses, contextual info
+
+⭐ 6. Evaluation Results (Example)
+Entity F1 Score
+EMAIL 0.97
+PAN 1.00
+AADHAAR 0.889
+ADDRESS 0.864
+PHONE 0.773
+OVERALL 0.763
+
+Weak classes (DATE, PIN, VOTER_ID) due to low training examples.
+
+⭐ 7. Future Work
+
+Better BIO alignment using word-id mapping
+
+Data augmentation for rare entity types
+
+Confidence thresholding
+
+UI for uploading & redacting RTIs
+
+Deploy as API (FastAPI/Flask)
+
+⭐ 8. Demo Commands
+python inference_model.py
+python redact_demo_updated.py
+
+Show:
+
+Before text
+
+LIGHT redaction
+
+MEDIUM redaction
+
+STRONG redaction

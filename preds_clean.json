@@ -1,0 +1,1260 @@
+{
+  "sample1.txt": [
+    {
+      "start": 397,
+      "end": 409,
+      "label": "PERSON",
+      "text": "Ritika Singh"
+    },
+    {
+      "start": 421,
+      "end": 432,
+      "label": "PERSON",
+      "text": "Kumar Singh"
+    },
+    {
+      "start": 466,
+      "end": 472,
+      "label": "PIN",
+      "text": "226010"
+    },
+    {
+      "start": 480,
+      "end": 490,
+      "label": "PHONE",
+      "text": "9936521874"
+    },
+    {
+      "start": 498,
+      "end": 522,
+      "label": "EMAIL",
+      "text": "ritika.singh25@gmail.com"
+    },
+    {
+      "start": 532,
+      "end": 546,
+      "label": "AADHAAR",
+      "text": "4589 1234 7789"
+    }
+  ],
+  "sample10.txt": [
+    {
+      "start": 12,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Vidhi Talwar"
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "label": "PIN",
+      "text": "110016"
+    },
+    {
+      "start": 125,
+      "end": 152,
+      "label": "PERSON",
+      "text": "karamchariyon ki attendance"
+    }
+  ],
+  "sample11.txt": [
+    {
+      "start": 12,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Irfan Khan"
+    },
+    {
+      "start": 35,
+      "end": 47,
+      "label": "AADHAAR",
+      "text": "901290129012"
+    },
+    {
+      "start": 59,
+      "end": 67,
+      "label": "PASSPORT",
+      "text": "Z1234567"
+    },
+    {
+      "start": 76,
+      "end": 103,
+      "label": "EMAIL",
+      "text": "irfan.khan+rt1@mailhost.com"
+    },
+    {
+      "start": 147,
+      "end": 153,
+      "label": "PIN",
+      "text": "400076"
+    }
+  ],
+  "sample12.txt": [
+    {
+      "start": 7,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Priya & Amit"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "462021"
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "PHONE",
+      "text": "7981122223"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9475668902"
+    },
+    {
+      "start": 154,
+      "end": 166,
+      "label": "DATE",
+      "text": "12 June 2023"
+    }
+  ],
+  "sample13.txt": [
+    {
+      "start": 7,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Priya & Amit"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "462021"
+    },
+    {
+      "start": 61,
+      "end": 71,
+      "label": "PHONE",
+      "text": "7981122223"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9475668902"
+    },
+    {
+      "start": 154,
+      "end": 166,
+      "label": "DATE",
+      "text": "12 June 2023"
+    }
+  ],
+  "sample14.txt": [
+    {
+      "start": 12,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Harsh!a G."
+    },
+    {
+      "start": 61,
+      "end": 67,
+      "label": "PIN",
+      "text": "201010"
+    },
+    {
+      "start": 141,
+      "end": 149,
+      "label": "DATE",
+      "text": "1-4-2022"
+    },
+    {
+      "start": 153,
+      "end": 162,
+      "label": "DATE",
+      "text": "31-3-2023"
+    }
+  ],
+  "sample15.txt": [
+    {
+      "start": 63,
+      "end": 69,
+      "label": "PIN",
+      "text": "141007"
+    },
+    {
+      "start": 69,
+      "end": 76,
+      "label": "PERSON",
+      "text": "Email"
+    },
+    {
+      "start": 78,
+      "end": 96,
+      "label": "EMAIL",
+      "text": "tannuChh_89@xyz.in"
+    }
+  ],
+  "sample16.txt": [
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Kavita Joshi"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "label": "PAN",
+      "text": "JSHPK6612R"
+    },
+    {
+      "start": 51,
+      "end": 65,
+      "label": "AADHAAR",
+      "text": "7766 8899 2233"
+    },
+    {
+      "start": 97,
+      "end": 103,
+      "label": "PIN",
+      "text": "248001"
+    }
+  ],
+  "sample17.txt": [
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Deepak Kumar"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "PHONE",
+      "text": "9004412299"
+    },
+    {
+      "start": 89,
+      "end": 107,
+      "label": "EMAIL",
+      "text": "deepak.tchr@edu.in"
+    }
+  ],
+  "sample18.txt": [
+    {
+      "start": 7,
+      "end": 11,
+      "label": "PERSON",
+      "text": "Ritu"
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "462040"
+    },
+    {
+      "start": 70,
+      "end": 80,
+      "label": "PHONE",
+      "text": "8877445599"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PERSON",
+      "text": "kiske naam"
+    }
+  ],
+  "sample19.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Ramesh Iyer"
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "PIN",
+      "text": "641002"
+    },
+    {
+      "start": 77,
+      "end": 87,
+      "label": "PHONE",
+      "text": "9488801122"
+    },
+    {
+      "start": 97,
+      "end": 111,
+      "label": "EMAIL",
+      "text": "iyer77@post.in"
+    }
+  ],
+  "sample2.txt": [
+    {
+      "start": 321,
+      "end": 346,
+      "label": "PERSON",
+      "text": "का नाम: Anjali Verma \nपता"
+    },
+    {
+      "start": 380,
+      "end": 386,
+      "label": "PIN",
+      "text": "110049"
+    },
+    {
+      "start": 405,
+      "end": 415,
+      "label": "PHONE",
+      "text": "9810012345"
+    },
+    {
+      "start": 423,
+      "end": 447,
+      "label": "EMAIL",
+      "text": "anjali.verma@example.com"
+    },
+    {
+      "start": 454,
+      "end": 464,
+      "label": "PAN",
+      "text": "AKTPV9012H"
+    },
+    {
+      "start": 484,
+      "end": 495,
+      "label": "PERSON",
+      "text": "कि पार्क की"
+    },
+    {
+      "start": 501,
+      "end": 514,
+      "label": "ADDRESS",
+      "text": "की जिम्मेदारी"
+    }
+  ],
+  "sample20.txt": [
+    {
+      "start": 11,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Mahesh Patankar"
+    },
+    {
+      "start": 33,
+      "end": 43,
+      "label": "PAN",
+      "text": "HQQPM2219F"
+    },
+    {
+      "start": 85,
+      "end": 91,
+      "label": "PIN",
+      "text": "422008"
+    },
+    {
+      "start": 100,
+      "end": 110,
+      "label": "PHONE",
+      "text": "9022511190"
+    }
+  ],
+  "sample21.txt": [
+    {
+      "start": 7,
+      "end": 16,
+      "label": "PERSON",
+      "text": "अनूप सिंह"
+    },
+    {
+      "start": 46,
+      "end": 52,
+      "label": "PIN",
+      "text": "277001"
+    },
+    {
+      "start": 67,
+      "end": 81,
+      "label": "AADHAAR",
+      "text": "9988 7766 5511"
+    },
+    {
+      "start": 91,
+      "end": 101,
+      "label": "PHONE",
+      "text": "8877002319"
+    }
+  ],
+  "sample22.txt": [
+    {
+      "start": 16,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Asha R."
+    },
+    {
+      "start": 62,
+      "end": 68,
+      "label": "PIN",
+      "text": "201009"
+    },
+    {
+      "start": 82,
+      "end": 96,
+      "label": "EMAIL",
+      "text": "rghz@inbox.org"
+    },
+    {
+      "start": 105,
+      "end": 115,
+      "label": "PHONE",
+      "text": "9910877233"
+    }
+  ],
+  "sample23.txt": [
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Prabhu Sekar"
+    },
+    {
+      "start": 68,
+      "end": 74,
+      "label": "PIN",
+      "text": "613001"
+    },
+    {
+      "start": 83,
+      "end": 93,
+      "label": "PHONE",
+      "text": "9444412288"
+    }
+  ],
+  "sample24.txt": [
+    {
+      "start": 0,
+      "end": 6,
+      "label": "PERSON",
+      "text": "Avedak"
+    },
+    {
+      "start": 52,
+      "end": 61,
+      "label": "PERSON",
+      "text": "KhairtalA"
+    },
+    {
+      "start": 68,
+      "end": 74,
+      "label": "PIN",
+      "text": "303501"
+    }
+  ],
+  "sample25.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Rhea Thomas"
+    },
+    {
+      "start": 70,
+      "end": 76,
+      "label": "PIN",
+      "text": "400076"
+    },
+    {
+      "start": 85,
+      "end": 99,
+      "label": "EMAIL",
+      "text": "rhea.t@live.in"
+    }
+  ],
+  "sample26.txt": [
+    {
+      "start": 11,
+      "end": 20,
+      "label": "PERSON",
+      "text": "Sravani P"
+    },
+    {
+      "start": 71,
+      "end": 77,
+      "label": "PIN",
+      "text": "520008"
+    },
+    {
+      "start": 86,
+      "end": 96,
+      "label": "PHONE",
+      "text": "9885509921"
+    }
+  ],
+  "sample27.txt": [
+    {
+      "start": 6,
+      "end": 18,
+      "label": "PERSON",
+      "text": "Karan Bhatia"
+    },
+    {
+      "start": 25,
+      "end": 35,
+      "label": "PAN",
+      "text": "BHTKB2991T"
+    },
+    {
+      "start": 74,
+      "end": 80,
+      "label": "PIN",
+      "text": "110085"
+    },
+    {
+      "start": 110,
+      "end": 116,
+      "label": "PERSON",
+      "text": "Pichle"
+    }
+  ],
+  "sample28.txt": [
+    {
+      "start": 12,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Ramesh & Varun"
+    },
+    {
+      "start": 64,
+      "end": 70,
+      "label": "PIN",
+      "text": "302012"
+    },
+    {
+      "start": 80,
+      "end": 102,
+      "label": "PHONE",
+      "text": "9540012218, 8826654421"
+    }
+  ],
+  "sample29.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Arnab Dutta"
+    },
+    {
+      "start": 59,
+      "end": 65,
+      "label": "PIN",
+      "text": "700019"
+    },
+    {
+      "start": 74,
+      "end": 84,
+      "label": "PHONE",
+      "text": "9874351200"
+    },
+    {
+      "start": 87,
+      "end": 93,
+      "label": "PERSON",
+      "text": "অনুরোধ"
+    }
+  ],
+  "sample3.txt": [
+    {
+      "start": 66,
+      "end": 76,
+      "label": "PERSON",
+      "text": "Tamil Nadu"
+    },
+    {
+      "start": 242,
+      "end": 257,
+      "label": "ADDRESS",
+      "text": "Tiruchirappalli"
+    },
+    {
+      "start": 273,
+      "end": 286,
+      "label": "DATE",
+      "text": "31 March 2024"
+    },
+    {
+      "start": 393,
+      "end": 415,
+      "label": "PERSON",
+      "text": "Details:\nArun Krishnan"
+    },
+    {
+      "start": 461,
+      "end": 467,
+      "label": "PIN",
+      "text": "620002"
+    },
+    {
+      "start": 475,
+      "end": 485,
+      "label": "PHONE",
+      "text": "9840276211"
+    },
+    {
+      "start": 493,
+      "end": 517,
+      "label": "EMAIL",
+      "text": "arun.krishnan@citizen.in"
+    },
+    {
+      "start": 524,
+      "end": 535,
+      "label": "DATE",
+      "text": "12 May 2024"
+    }
+  ],
+  "sample30.txt": [
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Rohit Chawla"
+    },
+    {
+      "start": 38,
+      "end": 46,
+      "label": "PASSPORT",
+      "text": "P3339921"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "160017"
+    },
+    {
+      "start": 100,
+      "end": 123,
+      "label": "EMAIL",
+      "text": "chawla_work@techmail.co"
+    }
+  ],
+  "sample31.txt": [
+    {
+      "start": 58,
+      "end": 64,
+      "label": "PIN",
+      "text": "110031"
+    }
+  ],
+  "sample32.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Neha Kapoor"
+    },
+    {
+      "start": 33,
+      "end": 45,
+      "label": "AADHAAR",
+      "text": "998877665544"
+    },
+    {
+      "start": 54,
+      "end": 75,
+      "label": "EMAIL",
+      "text": "neha_kpr++@mailbox.in"
+    },
+    {
+      "start": 114,
+      "end": 120,
+      "label": "PIN",
+      "text": "452001"
+    }
+  ],
+  "sample33.txt": [
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Manjunath Rao"
+    },
+    {
+      "start": 61,
+      "end": 67,
+      "label": "PIN",
+      "text": "570008"
+    },
+    {
+      "start": 76,
+      "end": 86,
+      "label": "PHONE",
+      "text": "9035667122"
+    }
+  ],
+  "sample34.txt": [
+    {
+      "start": 11,
+      "end": 20,
+      "label": "PERSON",
+      "text": "Anita Sen"
+    },
+    {
+      "start": 31,
+      "end": 45,
+      "label": "FILE",
+      "text": "RTI/2023/441-B"
+    },
+    {
+      "start": 87,
+      "end": 93,
+      "label": "PIN",
+      "text": "700072"
+    },
+    {
+      "start": 158,
+      "end": 168,
+      "label": "DATE",
+      "text": "18/12/2021"
+    }
+  ],
+  "sample35.txt": [
+    {
+      "start": 11,
+      "end": 16,
+      "label": "PERSON",
+      "text": "Monty"
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "110008"
+    },
+    {
+      "start": 66,
+      "end": 76,
+      "label": "PHONE",
+      "text": "8449122991"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PERSON",
+      "text": "kahan gaya"
+    }
+  ],
+  "sample36.txt": [
+    {
+      "start": 14,
+      "end": 17,
+      "label": "PERSON",
+      "text": "Dev"
+    },
+    {
+      "start": 24,
+      "end": 34,
+      "label": "PAN",
+      "text": "DKLPD9022Q"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "600105"
+    },
+    {
+      "start": 111,
+      "end": 124,
+      "label": "ADDRESS",
+      "text": "Sunrise Villa"
+    },
+    {
+      "start": 134,
+      "end": 140,
+      "label": "PIN",
+      "text": "122002"
+    },
+    {
+      "start": 149,
+      "end": 159,
+      "label": "PHONE",
+      "text": "9313340072"
+    }
+  ],
+  "sample37.txt": [
+    {
+      "start": 11,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Pratik K"
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "PIN",
+      "text": "411030"
+    },
+    {
+      "start": 64,
+      "end": 74,
+      "label": "PHONE",
+      "text": "9096932211"
+    }
+  ],
+  "sample38.txt": [
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Shalini Desai"
+    },
+    {
+      "start": 35,
+      "end": 47,
+      "label": "AADHAAR",
+      "text": "112233445566"
+    },
+    {
+      "start": 54,
+      "end": 64,
+      "label": "PAN",
+      "text": "DESPS8831G"
+    },
+    {
+      "start": 73,
+      "end": 83,
+      "label": "PHONE",
+      "text": "9821301100"
+    },
+    {
+      "start": 92,
+      "end": 116,
+      "label": "EMAIL",
+      "text": "shalini.desai@clarion.in"
+    }
+  ],
+  "sample39.txt": [
+    {
+      "start": 7,
+      "end": 32,
+      "label": "PERSON",
+      "text": "Abdul Rahim / अब्दुल रहीम"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "label": "PIN",
+      "text": "800020"
+    },
+    {
+      "start": 79,
+      "end": 89,
+      "label": "PHONE",
+      "text": "9570339011"
+    }
+  ],
+  "sample4.txt": [
+    {
+      "start": 11,
+      "end": 42,
+      "label": "PERSON",
+      "text": "Meera Sharma, D/o Rakesh Sharma"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "208012"
+    },
+    {
+      "start": 82,
+      "end": 91,
+      "label": "PERSON",
+      "text": "Aadhaar"
+    },
+    {
+      "start": 93,
+      "end": 107,
+      "label": "AADHAAR",
+      "text": "5678 9012 3344"
+    },
+    {
+      "start": 116,
+      "end": 137,
+      "label": "EMAIL",
+      "text": "meera.s2001@gmail.com"
+    },
+    {
+      "start": 146,
+      "end": 156,
+      "label": "PHONE",
+      "text": "9823654710"
+    }
+  ],
+  "sample40.txt": [
+    {
+      "start": 12,
+      "end": 20,
+      "label": "PERSON",
+      "text": "GeetA M."
+    },
+    {
+      "start": 51,
+      "end": 57,
+      "label": "PIN",
+      "text": "700089"
+    }
+  ],
+  "sample41.txt": [
+    {
+      "start": 11,
+      "end": 24,
+      "label": "PERSON",
+      "text": "Gurpreet Kaur"
+    },
+    {
+      "start": 60,
+      "end": 66,
+      "label": "PIN",
+      "text": "144003"
+    },
+    {
+      "start": 75,
+      "end": 85,
+      "label": "PHONE",
+      "text": "9815599033"
+    }
+  ],
+  "sample42.txt": [
+    {
+      "start": 11,
+      "end": 21,
+      "label": "PERSON",
+      "text": "Ashwin Rao"
+    },
+    {
+      "start": 28,
+      "end": 38,
+      "label": "PAN",
+      "text": "RAOAX1112T"
+    },
+    {
+      "start": 50,
+      "end": 58,
+      "label": "PASSPORT",
+      "text": "R0099123"
+    },
+    {
+      "start": 98,
+      "end": 104,
+      "label": "PIN",
+      "text": "500033"
+    },
+    {
+      "start": 113,
+      "end": 123,
+      "label": "PHONE",
+      "text": "9440044112"
+    }
+  ],
+  "sample43.txt": [
+    {
+      "start": 12,
+      "end": 20,
+      "label": "PERSON",
+      "text": "TANYA G."
+    },
+    {
+      "start": 30,
+      "end": 59,
+      "label": "ADDRESS",
+      "text": "22, Inderpuri, NewDelhi110012"
+    }
+  ],
+  "sample44.txt": [
+    {
+      "start": 11,
+      "end": 21,
+      "label": "PERSON",
+      "text": "Karthika M"
+    },
+    {
+      "start": 32,
+      "end": 46,
+      "label": "AADHAAR",
+      "text": "6655 9988 1122"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "label": "PIN",
+      "text": "625001"
+    },
+    {
+      "start": 97,
+      "end": 107,
+      "label": "PHONE",
+      "text": "9445599911"
+    }
+  ],
+  "sample45.txt": [
+    {
+      "start": 11,
+      "end": 18,
+      "label": "PERSON",
+      "text": "Vivek S"
+    },
+    {
+      "start": 83,
+      "end": 89,
+      "label": "PIN",
+      "text": "411014"
+    }
+  ],
+  "sample46.txt": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON",
+      "text": "Kavya"
+    },
+    {
+      "start": 50,
+      "end": 56,
+      "label": "PIN",
+      "text": "211001"
+    },
+    {
+      "start": 67,
+      "end": 77,
+      "label": "PHONE",
+      "text": "9090902223"
+    }
+  ],
+  "sample47.txt": [
+    {
+      "start": 11,
+      "end": 26,
+      "label": "PERSON",
+      "text": "Dinesh Malhotra"
+    },
+    {
+      "start": 66,
+      "end": 72,
+      "label": "PIN",
+      "text": "121006"
+    },
+    {
+      "start": 83,
+      "end": 106,
+      "label": "EMAIL",
+      "text": "malhotra.gov@inmail.org"
+    },
+    {
+      "start": 115,
+      "end": 125,
+      "label": "PHONE",
+      "text": "9818087744"
+    }
+  ],
+  "sample48.txt": [
+    {
+      "start": 11,
+      "end": 19,
+      "label": "PERSON",
+      "text": "Rina Das"
+    },
+    {
+      "start": 44,
+      "end": 50,
+      "label": "PIN",
+      "text": "788001"
+    },
+    {
+      "start": 59,
+      "end": 69,
+      "label": "PHONE",
+      "text": "7002974412"
+    },
+    {
+      "start": 72,
+      "end": 78,
+      "label": "PERSON",
+      "text": "অনুরোধ"
+    }
+  ],
+  "sample49.txt": [
+    {
+      "start": 0,
+      "end": 7,
+      "label": "PERSON",
+      "text": "Applica"
+    },
+    {
+      "start": 13,
+      "end": 20,
+      "label": "PERSON",
+      "text": "JOhn P."
+    },
+    {
+      "start": 55,
+      "end": 61,
+      "label": "PIN",
+      "text": "682020"
+    }
+  ],
+  "sample5.txt": [
+    {
+      "start": 7,
+      "end": 18,
+      "label": "PERSON",
+      "text": "मोहित वर्मा"
+    },
+    {
+      "start": 49,
+      "end": 55,
+      "label": "PIN",
+      "text": "302016"
+    },
+    {
+      "start": 63,
+      "end": 73,
+      "label": "PHONE",
+      "text": "9898123456"
+    },
+    {
+      "start": 80,
+      "end": 90,
+      "label": "PAN",
+      "text": "ABCDE4567F"
+    }
+  ],
+  "sample50.txt": [
+    {
+      "start": 11,
+      "end": 23,
+      "label": "PERSON",
+      "text": "Charan Reddy"
+    },
+    {
+      "start": 30,
+      "end": 40,
+      "label": "PAN",
+      "text": "CRDRD2211J"
+    },
+    {
+      "start": 82,
+      "end": 88,
+      "label": "PIN",
+      "text": "500072"
+    },
+    {
+      "start": 97,
+      "end": 107,
+      "label": "PHONE",
+      "text": "9393990021"
+    }
+  ],
+  "sample6.txt": [
+    {
+      "start": 16,
+      "end": 21,
+      "label": "PERSON",
+      "text": "KuMar"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "313001"
+    }
+  ],
+  "sample7.txt": [
+    {
+      "start": 19,
+      "end": 31,
+      "label": "PERSON",
+      "text": "Prakash \nपता"
+    },
+    {
+      "start": 76,
+      "end": 82,
+      "label": "PIN",
+      "text": "580002"
+    },
+    {
+      "start": 91,
+      "end": 119,
+      "label": "EMAIL",
+      "text": "prakash_official@fastmail.in"
+    },
+    {
+      "start": 128,
+      "end": 138,
+      "label": "PHONE",
+      "text": "7022347781"
+    }
+  ],
+  "sample8.txt": [
+    {
+      "start": 8,
+      "end": 19,
+      "label": "PERSON",
+      "text": "सुशीला देवी"
+    },
+    {
+      "start": 73,
+      "end": 79,
+      "label": "PIN",
+      "text": "176061"
+    },
+    {
+      "start": 95,
+      "end": 107,
+      "label": "AADHAAR",
+      "text": "334455667788"
+    },
+    {
+      "start": 118,
+      "end": 128,
+      "label": "PHONE",
+      "text": "7800570092"
+    }
+  ],
+  "sample9.txt": [
+    {
+      "start": 11,
+      "end": 22,
+      "label": "PERSON",
+      "text": "Rajesh Nair"
+    },
+    {
+      "start": 29,
+      "end": 39,
+      "label": "PAN",
+      "text": "AQIPN9912K"
+    },
+    {
+      "start": 72,
+      "end": 78,
+      "label": "PIN",
+      "text": "682011"
+    },
+    {
+      "start": 89,
+      "end": 110,
+      "label": "EMAIL",
+      "text": "nair_work@company.org"
+    }
+  ]
+}
